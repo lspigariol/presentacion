@@ -4,7 +4,8 @@
 
 Me llamo **Lucas** y trabajo en la Unahur.
 
-![foto](fred3.png)
+![foto](fred3.png) ![otra](shaggy.png)
+
 
 Los lugares donde voy son:
 * la facultad
