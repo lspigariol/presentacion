@@ -4,7 +4,7 @@
 
 Me llamo **Lucas** y trabajo en la Unahur.
 
-![foto]("lucas.jpg")
+![foto]("fred.png")
 
 Los lugares donde voy son:
 * la facultad
