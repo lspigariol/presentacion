@@ -10,6 +10,7 @@ Los lugares donde voy son:
 * la facultad
 * el club
 * el parque 
+* la plaza
 
 
 
