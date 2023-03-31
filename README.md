@@ -1,8 +1,8 @@
 # Lucas Spigariol 
 
-## El profe de Objetos 1
+## El profe de Objetos 1 y Paradigmas
 
-Me llamo **Lucas** y trabajo en la Unahur.
+Me llamo **Lucas** y trabajo en la Unahur y la UTN
 
 ![foto](fred3.png) ![otra](shaggy.png)
 
@@ -12,7 +12,6 @@ Los lugares donde voy son:
 * el club
 * el parque 
 * la calesita
-* lsdjfalsjflsajflksajfd
 
 
 
